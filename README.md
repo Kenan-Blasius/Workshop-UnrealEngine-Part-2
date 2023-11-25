@@ -217,3 +217,5 @@ Vous pouvez donc ajouter d'autre lumière murale en utilisant votre Blueprint.
 ## Conclusion
 
 Vous avez maintenant les bases pour créer des Blueprints et créer des décors à partir d'asset déjà existant.
+
+Vous pouvez vous amuser à créer d'autre décors et à les mettre dans des Blueprints afin de les réutiliser.
