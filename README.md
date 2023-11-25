@@ -13,7 +13,7 @@ Nous allons aussi apprendre à utiliser les Blueprints pour créer des objets r�
 Ce workshop est découpé en 3 parties :
 
 - Partie 1 : [Création/Sculpture/Peinture du terrain](https://github.com/Kenan-Blasius/Workshop-UnrealEngine-Part-1)
-- Partie 2 (ce workshop) : Création d'une salle
+- Partie 2 (ce workshop) : [Création de décors](https://github.com/Kenan-Blasius/Workshop-UnrealEngine-Part-2)
 - Partie 3 : Création d’un Level avec un personnage jouable
 
 ## Création d'une salle
