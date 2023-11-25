@@ -71,6 +71,7 @@ Continuer à dupliquer vos Floor_400x400 pour avoir une salle en 3x3 (9 Floor_40
 
 > [!tip]
 > Pensez à créer un dossier `Room` et un sous dossier `Floor` dans l'Outliner pour y mettre vos Floor_400x400 et ainsi avoir une scène plus propre.
+>
 > ![image](assets/RoomFolder.png)
 
 Maintenant que nous avons notre sol, nous allons pouvoir créer les murs.
