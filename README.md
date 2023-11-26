@@ -10,11 +10,12 @@ Nous allons donc apprendre à utiliser les outils de base d'UnrealEngine pour cr
 
 Nous allons aussi apprendre à utiliser les Blueprints pour créer des objets réutilisables.
 
-Ce workshop est découpé en 3 parties :
+Ce workshop est découpé en 4 parties :
 
 - Partie 1 : [Création/Sculpture/Peinture du terrain](https://github.com/Kenan-Blasius/Workshop-UnrealEngine-Part-1)
 - Partie 2 (ce workshop) : [Création de décors](https://github.com/Kenan-Blasius/Workshop-UnrealEngine-Part-2)
 - Partie 3 : [Importation de model exterieur/Création de particule](https://github.com/Kenan-Blasius/Workshop-UnrealEngine-Part-3)
+- Partie 4 : [Apprentissage du Blueprint](https://github.com/Kenan-Blasius/Workshop-UnrealEngine-Part-4)
 
 ## Création d'une salle
 
