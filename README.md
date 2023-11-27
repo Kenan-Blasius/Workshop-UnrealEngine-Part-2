@@ -83,7 +83,7 @@ Créez donc des murs pour faire le tour de votre salle et pensez à enlever un m
 
 Cependant, pour ce faire il va vous falloir faire des rotations.
 
-Pour faire une rotation, rendez vous en haut à droite de la vue 3D et les 2 flèches tournant en rond pour passer en mode rotation.
+Pour faire une rotation, rendez vous en haut à droite de la vue 3D et cliquez sur les 2 flèches tournant en rond pour passer en mode rotation.
 
 ![image](assets/RotationMode.png)
 
@@ -97,13 +97,13 @@ Maintenant que nous avons notre salle, nous allons pouvoir créer une porte.
 
 Pour ce faire, nous allons utiliser les Wall_Door_400x400.
 
-Posez donc un Wall_Door_400x400 à la au niveau du trou que vous avez fait dans votre salle.
+Posez donc un Wall_Door_400x400 au niveau du trou que vous avez fait dans votre salle.
 
 ![image](assets/Door.png)
 
 Maintenant que nous avons notre salle et notre porte, nous allons pouvoir créer un plafond.
 
-Pour ce faire, nous allons utiliser dupliquer notre sol et le faire monter.
+Pour ce faire, nous allons dupliquer notre sol et le faire monter.
 
 Dupliquez donc votre sol et faites le monter.
 
@@ -126,9 +126,9 @@ Nous allons maintenant ajouter une lumière murale (SM_Lamp_Wall) dans notre sal
 
 ![image](assets/WallLamp.png)
 
-Mais notre lampe n'éclaire pas assez, nous allons donc ajouter une lumière spot (SpotLight).
+Mais notre lampe n'éclaire pas, nous allons donc ajouter une lumière spot (SpotLight).
 
-Pour ce faire, cliquez sur votre lampe et cliquez sur `Add` et cherchez `SpotLight`.
+Pour ce faire, cliquez sur votre lampe et, dans `Details`, cliquez sur `Add` et cherchez `SpotLight`.
 
 ![image](assets/SpotLightComponent.png)
 
@@ -178,7 +178,7 @@ Nous allons cliquez sur un mur et allons dans les détails de l'objet pour modif
 
 Nous allons donc remplacer notre mur par un mur avec une fenêtre (Wall_Window_400x400).
 
-Vous devriez maintenant avoir une salle avec une fenêtre comme ceci :
+Vous devriez maintenant avoir une salle avec des fenêtres comme ceci :
 
 ![image](assets/RoomWithWindow.png)
 
